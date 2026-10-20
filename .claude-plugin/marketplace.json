@@ -1,0 +1,14 @@
+
+{
+  "name": "technical-validation-marketplace",
+  "owner": {
+    "name": "Technical Validation Team"
+  },
+  "plugins": [
+    {
+      "name": "technical-validation",
+      "description": "Technical validation workflows and best practices",
+      "source": "./"
+    }
+  ]
+}
